@@ -1,3 +1,25 @@
+# Spin up a typescript project
+
+npx create-react-app kudai-frontend --template typescript
+
+# install dependencies
+
+npm install react-redux redux @reduxjs/toolkit 
+
+# install types
+
+npm install @types/react-redux --save-dev
+
+# modify tsconfig
+
+includes "react-redux" in the "types" array under "compilerOptions"
+
+{
+  "compilerOptions": {
+    "types": ["react-redux"]
+  }
+}
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
