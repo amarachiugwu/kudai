@@ -47,6 +47,11 @@ Add the @tailwind directives for each of Tailwind’s layers to your ./src/index
 @tailwind components;
 @tailwind utilities;
 
+# Define app layout
+
+yarn add react-router-dom
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

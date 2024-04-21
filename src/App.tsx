@@ -1,8 +1,10 @@
+import { BrowserRouter } from 'react-router-dom'
+import Layout from './components/layout';
 function App() {
   return (
-    <h1 className="text-3xl font-bold text-red-500 underline">
-      Hello world!
-    </h1>
+    <BrowserRouter>
+      <Layout />
+    </BrowserRouter>
   );
 }
 
