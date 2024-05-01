@@ -1,0 +1,11 @@
+<svg className='inline' width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="8" cy="8" r="8" fill="#EB5757"/>
+            <g clipPath="url(#clip0_478_2323)">
+            <path d="M8.00012 7.29312L10.4751 4.81812L11.1821 5.52512L8.70711 8.00012L11.1821 10.4751L10.4751 11.1821L8.00012 8.70711L5.52512 11.1821L4.81812 10.4751L7.29312 8.00012L4.81812 5.52512L5.52512 4.81812L8.00012 7.29312Z" fill="white"/>
+            </g>
+            <defs>
+            <clipPath id="clip0_478_2323">
+            <rect width="12" height="12" fill="white" transform="translate(2 2)"/>
+            </clipPath>
+            </defs>
+        </svg>

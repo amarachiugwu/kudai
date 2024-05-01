@@ -51,6 +51,18 @@ Add the @tailwind directives for each of Tailwind’s layers to your ./src/index
 
 yarn add react-router-dom
 
+# Install formik and yup
+
+npm install formik yup
+
+# Install react-toastify
+
+npm install react-toastify
+npm install --save @types/react-toastify
+
+# Install axios
+
+npm install axios
 
 # Getting Started with Create React App
 
